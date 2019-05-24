@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\ablav\onedrive\documentos\code\upc_agario\upc_agario\vecfiguras.h(46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ablav\onedrive\documentos\code\upc_agario\upc_agario\vecfiguras.h(47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ablav\onedrive\documentos\code\upc_agario\upc_agario\juego.h(112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ablav\onedrive\documentos\code\upc_agario\upc_agario\juego.h(111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  upc_agario.vcxproj -> C:\Users\ablav\OneDrive\Documentos\code\upc_agario\Debug\upc_agario.exe
